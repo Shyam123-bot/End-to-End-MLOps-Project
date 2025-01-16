@@ -1,1 +1,12 @@
 [2025-01-15 11:57:39,811: INFO: main: Welcome]
+[2025-01-16 13:04:35,986: INFO: main: Welcome]
+[2025-01-16 13:57:48,272: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-01-16 13:57:48,273: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-16 13:57:48,273: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-16 13:57:48,274: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-16 13:57:48,274: INFO: common: created directory at: artifacts]
+[2025-01-16 13:57:48,275: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-16 13:57:48,275: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2025-01-16 13:57:48,289: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
