@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Github/End-to-End-MLOps-Project/mlruns/0/590cd78aa0d143abbe611c143f2e3b9a/artifacts
+end_time: 1737229488081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 590cd78aa0d143abbe611c143f2e3b9a
+run_name: learned-gnu-121
+run_uuid: 590cd78aa0d143abbe611c143f2e3b9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737229484255
+status: 3
+tags: []
+user_id: SHYAMDEVADIGA
