@@ -1,6 +1,6 @@
 from mlProject.constants import *
 from mlProject.utils.common import read_yaml, create_directories
-from mlProject.entity.config_entity import DataIngestionConfig,DataValidationConfig
+from mlProject.entity.config_entity import DataIngestionConfig,DataValidationConfig,DataTransformationConfig
 
 class ConfigurationManager:
     def __init__(
