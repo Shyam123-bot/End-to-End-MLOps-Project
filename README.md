@@ -1,12 +1,7 @@
-Here’s a **concise, professional, and informative README** for your project:
-
----
 
 # 🚀 **End-to-End ML Pipeline with CI/CD and Deployment**
 
 This project demonstrates the complete lifecycle of a Machine Learning pipeline, from data preparation to model deployment, using **MLflow**, **Flask**, **Docker**, and **AWS**. It integrates modern **MLOps** practices, including **CI/CD**, for seamless development and deployment.
-
----
 
 ## 🎯 **Project Highlights**
 
